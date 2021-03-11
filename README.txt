@@ -1,6 +1,9 @@
 Install Lumen Guide:
 https://lumen.laravel.com/docs/5.1
 -------------------------
+To get the source code:
+git clone --branch master https://github.com/gsseah/owner.git
+-------------------------
 This project uses MySQL as the database.
 Create a new database [moolahdb] on your MySQL
 ------------------------------
